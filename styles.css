@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.wrapper {
+    width: 1170px;
+    margin: auto;
+}
+
+body{
+    background: url("images/bigsquare.jpg");
+    height: 100vh;
+}
+
+.nav-area {
+    float: right;
+    list-style: none;
+    margin-top: 20px;
+    padding-right: 10px;
+}
+
+.nav-area li {
+    display: inline-block;
+
+}
+
+.nav-area li a {
+    color: #0078e7;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-size: 50px;
+}
+
+.nav-area li a:hover{
+    background: #0078e7;
+    color: #fff;
+
+}
+
+
+.logo img {
+    width: 60px;
+    float: left;
+    padding-left: 0%;
+    padding-top: 1%;
+}
+
+.text{
+    position: absolute;
+    width: 400px;
+    height: 600px;
+    left: 275px;
+    top: 350px;
+}
+
+.text{
+    color: #0078e7;
+    font-size: 35px;
+}
+
+.img img{
+    position: absolute;
+    width: 500px;
+    height: 600px;
+    left: 771px;
+    top: 225px;
+}
+
+.polyhedron img {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 600px;
+    top: 1200px;
+
+}
+
+.github img{
+    position: absolute;
+    width: 150px;
+    height: 175px;
+    left: 1125px;
+    top: 1200px;    
+
+}
+
+.linkin img{
+    position: absolute;
+    width: 139px;
+    height: 175px;
+   left: 925px;
+    top: 1200px;
+
+}
+
+.icon img{
+    position: absolute;
+    width: 98px;
+   height: 100px;
+   left: 250px;
+   top: 1175px; 
+}
+
+.text1{
+    position: absolute;
+   width: 125px;
+   height: 100px;
+   left: 252px;
+    top: 1275px;
+
+}
+
+.text1{
+    font-size: 15px;
+    font-style: italic;
+}
+
+    
+
+
